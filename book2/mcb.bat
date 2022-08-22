@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\HP\Desktop\py_folder\book2\mcb.pyw %*
