@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\users\hp\desktop\py_folder\book 2 - automate the boring stuff whit python 2nd edition\chapter 11 - debugging\tracebackpractice.py", line 4, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
