@@ -1,0 +1,371 @@
+1662001777663	geckodriver	INFO	Listening on 127.0.0.1:64074
+1662001780761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilee6dCGt"
+1662001832224	geckodriver	INFO	Listening on 127.0.0.1:64156
+1662001835295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile6gDcq6"
+1662001836098	Marionette	INFO	Marionette enabled
+1662001836106	Marionette	INFO	Listening on port 64169
+WebDriver BiDi listening on ws://localhost:64157
+Read port: 64169
+1662001836360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile6gDcq6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64157/devtools/browser/ac708572-dc44-4f95-8977-b797ce0fc23e
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662001841227	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002509505	Marionette	INFO	Stopped listening on port 64169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Temp\\rust_mozprofileh4O8V5"
+1662001887058	Marionette	INFO	Marionette enabled
+1662001887068	Marionette	INFO	Listening on port 64239
+WebDriver BiDi listening on ws://localhost:64228
+Read port: 64239
+1662001887395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileh4O8V5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64228/devtools/browser/383b8c94-3e3e-402c-9d8c-b44ea6cb741b
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662001892577	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662001898809	Marionette	INFO	Stopped listening on port 64239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662002368342	geckodriver	INFO	Listening on 127.0.0.1:64623
+1662002371386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileTG7DVb"
+1662002372008	Marionette	INFO	Marionette enabled
+1662002372019	Marionette	INFO	Listening on port 64635
+WebDriver BiDi listening on ws://localhost:64624
+Read port: 64635
+1662002372263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileTG7DVb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64624/devtools/browser/8c26a0b9-460f-4f15-af9d-0a5072388909
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002376439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002510652	Marionette	INFO	Stopped listening on port 64635
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rt 64739
+WebDriver BiDi listening on ws://localhost:64728
+Read port: 64739
+1662002503164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileWUSn8q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64728/devtools/browser/230e3c65-c20a-4ba2-a94f-ab8b16aab406
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002507495	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002598006	Marionette	INFO	Stopped listening on port 64739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0kzuRO"
+1662002589223	Marionette	INFO	Marionette enabled
+1662002589229	Marionette	INFO	Listening on port 64821
+WebDriver BiDi listening on ws://localhost:64810
+Read port: 64821
+1662002589419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0kzuRO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64810/devtools/browser/2db4d8e4-b936-4bbe-af57-8d3db3f5efdf
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002593396	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002663205	Marionette	INFO	Stopped listening on port 64821
+2002643705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileDvDI9c"
+1662002644248	Marionette	INFO	Marionette enabled
+1662002644258	Marionette	INFO	Listening on port 64892
+WebDriver BiDi listening on ws://localhost:64881
+Read port: 64892
+1662002644476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileDvDI9c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64881/devtools/browser/b38bba72-47d8-4ba3-b272-3e07378c5de1
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002648385	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002742668	Marionette	INFO	Stopped listening on port 64892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Temp\\rust_mozprofilefZxcwl"
+1662002734955	Marionette	INFO	Marionette enabled
+1662002734964	Marionette	INFO	Listening on port 64997
+WebDriver BiDi listening on ws://localhost:64988
+Read port: 64997
+1662002735177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilefZxcwl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64988/devtools/browser/cfd14f5e-1d9d-48c5-a889-b15ab8c818e4
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002739519	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002808293	Marionette	INFO	Stopped listening on port 64997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662002812963	geckodriver	INFO	Listening on 127.0.0.1:65069
+1662002815986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileqj44Zn"
+1662002816597	Marionette	INFO	Marionette enabled
+1662002816604	Marionette	INFO	Listening on port 65081
+WebDriver BiDi listening on ws://localhost:65070
+Read port: 65081
+1662002816797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileqj44Zn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65070/devtools/browser/dfaa84d4-2e26-4990-b802-18fe5014447e
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002915643	Marionette	INFO	Stopped listening on port 65081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileworN7i"
+1662002884759	Marionette	INFO	Marionette enabled
+1662002884766	Marionette	INFO	Listening on port 65146
+WebDriver BiDi listening on ws://localhost:65135
+Read port: 65146
+1662002884966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileworN7i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65135/devtools/browser/45da70a0-ffdf-46a6-b703-ba2c93919559
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002896665	Marionette	INFO	Stopped listening on port 65146
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662002917940	geckodriver	INFO	Listening on 127.0.0.1:65194
+1662002920974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileU3FdHr"
+1662002921602	Marionette	INFO	Marionette enabled
+1662002921609	Marionette	INFO	Listening on port 65206
+WebDriver BiDi listening on ws://localhost:65195
+Read port: 65206
+1662002921801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileU3FdHr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65195/devtools/browser/1b186e08-8d21-4578-b626-89087f12b3a3
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662002949759	Marionette	INFO	Stopped listening on port 65206
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662002952815	geckodriver	INFO	Listening on 127.0.0.1:65249
+1662002955861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4GUI5T"
+1662002956454	Marionette	INFO	Marionette enabled
+1662002956461	Marionette	INFO	Listening on port 65259
+WebDriver BiDi listening on ws://localhost:65250
+Read port: 65259
+1662002956662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4GUI5T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65250/devtools/browser/8481ffdb-ab7f-454e-81ea-0d0940ee8f93
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003045958	Marionette	INFO	Stopped listening on port 65259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilebgTELW"
+1662003032041	Marionette	INFO	Marionette enabled
+1662003032050	Marionette	INFO	Listening on port 65338
+WebDriver BiDi listening on ws://localhost:65327
+Read port: 65338
+1662003032236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilebgTELW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65327/devtools/browser/2fe58a4c-27fa-4a45-ab09-e78b5f6c04f6
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003047035	Marionette	INFO	Stopped listening on port 65338
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662003049722	geckodriver	INFO	Listening on 127.0.0.1:65375
+1662003052790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiletCey4N"
+1662003053437	Marionette	INFO	Marionette enabled
+1662003053446	Marionette	INFO	Listening on port 65387
+WebDriver BiDi listening on ws://localhost:65376
+Read port: 65387
+1662003053652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiletCey4N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65376/devtools/browser/819d8dc9-38ed-49e0-a45b-ac0b30113a83
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003064637	Marionette	INFO	Stopped listening on port 65387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662003189428	geckodriver	INFO	Listening on 127.0.0.1:65471
+1662003192475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileGukdHE"
+1662003193109	Marionette	INFO	Marionette enabled
+1662003193118	Marionette	INFO	Listening on port 65483
+WebDriver BiDi listening on ws://localhost:65472
+Read port: 65483
+1662003193323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileGukdHE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65472/devtools/browser/e8733b51-cf98-4edb-b5fa-d43d351801bb
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003200970	Marionette	INFO	Stopped listening on port 65483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662003352001	geckodriver	INFO	Listening on 127.0.0.1:49329
+1662003355065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49330" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileFnCDgO"
+1662003355690	Marionette	INFO	Marionette enabled
+1662003355700	Marionette	INFO	Listening on port 49344
+WebDriver BiDi listening on ws://localhost:49330
+Read port: 49344
+1662003355907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileFnCDgO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49330/devtools/browser/9f8d33e6-2972-45fc-89af-b172afd2c1fd
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003503084	Marionette	INFO	Stopped listening on port 49344
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileC6crP1"
+1662003450584	Marionette	INFO	Marionette enabled
+1662003450594	Marionette	INFO	Listening on port 49445
+WebDriver BiDi listening on ws://localhost:49433
+Read port: 49445
+1662003450828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileC6crP1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49433/devtools/browser/ad7b447e-1724-4257-9b68-b4cba684c0c4
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003457561	Marionette	INFO	Stopped listening on port 49445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662003464649	geckodriver	INFO	Listening on 127.0.0.1:49480
+1662003467725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileNScHC0"
+1662003468247	Marionette	INFO	Marionette enabled
+1662003468255	Marionette	INFO	Listening on port 49492
+WebDriver BiDi listening on ws://localhost:49481
+Read port: 49492
+1662003468436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileNScHC0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49481/devtools/browser/25e5c190-f1e4-4116-9bb3-fc650b46dd0f
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003483762	Marionette	INFO	Stopped listening on port 49491662003484191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileEMwC3Y"
+1662003485034	Marionette	INFO	Marionette enabled
+1662003485045	Marionette	INFO	Listening on port 49537
+WebDriver BiDi listening on ws://localhost:49525
+Read port: 49537
+1662003485283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileEMwC3Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49525/devtools/browser/8e9763fe-0d10-4639-9de6-8013cd05f620
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003503898	Marionette	INFO	Stopped listening on port 49537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662003529017	geckodriver	INFO	Listening on 127.0.0.1:49586
+1662003532085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileXBrvIr"
+1662003532650	Marionette	INFO	Marionette enabled
+1662003532659	Marionette	INFO	Listening on port 49598
+WebDriver BiDi listening on ws://localhost:49587
+Read port: 49598
+1662003532893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileXBrvIr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49587/devtools/browser/469cd4ee-7a97-4fe5-b3dc-41c27661bd55
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003555390	Marionette	INFO	Stopped listening on port 49598
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662003558200	geckodriver	INFO	Listening on 127.0.0.1:49637
+1662003561280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQ30N0u"
+1662003561802	Marionette	INFO	Marionette enabled
+1662003561809	Marionette	INFO	Listening on port 49647
+WebDriver BiDi listening on ws://localhost:49638
+Read port: 49647
+1662003561996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQ30N0u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49638/devtools/browser/dc22aaaf-20b9-47e0-9b00-ca1783c37b4f
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003623500	Marionette	INFO	Stopped listening on port 49647
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662003671379	geckodriver	INFO	Listening on 127.0.0.1:49733
+1662003674444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileIL5yHa"
+1662003675010	Marionette	INFO	Marionette enabled
+1662003675017	Marionette	INFO	Listening on port 49745
+WebDriver BiDi listening on ws://localhost:49734
+Read port: 49745
+1662003675194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileIL5yHa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49734/devtools/browser/a2028f81-1021-4e22-a8da-db99ffc5d006
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003687675	Marionette	INFO	Stopped listening on port 49745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662003759006	geckodriver	INFO	Listening on 127.0.0.1:49811
+1662003762057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQg7z9B"
+1662003762597	Marionette	INFO	Marionette enabled
+1662003762604	Marionette	INFO	Listening on port 49821
+WebDriver BiDi listening on ws://localhost:49812
+Read port: 49821
+1662003762784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQg7z9B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49812/devtools/browser/12065d09-bc12-44c3-9fc3-cfadb5561e42
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662003768014	Marionette	INFO	Stopped listening on port 49821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662004204931	geckodriver	INFO	Listening on 127.0.0.1:59048
+1662004208008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileV0f2DG"
+1662004208610	Marionette	INFO	Marionette enabled
+1662004208621	Marionette	INFO	Listening on port 59060
+WebDriver BiDi listening on ws://localhost:59049
+Read port: 59060
+1662004208826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileV0f2DG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59049/devtools/browser/84268971-ccef-4405-9e94-5d0ba3a670a0
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662004218661	Marionette	INFO	Stopped listening on port 59060
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662004234158	geckodriver	INFO	Listening on 127.0.0.1:59098
+1662004237205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileWwqqOc"
+1662004237816	Marionette	INFO	Marionette enabled
+1662004237826	Marionette	INFO	Listening on port 59109
+WebDriver BiDi listening on ws://localhost:59099
+Read port: 59109
+1662004238026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileWwqqOc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59099/devtools/browser/a9f844f8-c27f-4201-9047-ea2f4d737921
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662004243536	Marionette	INFO	Stopped listening on port 59109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662004340961	geckodriver	INFO	Listening on 127.0.0.1:54665
+1662004344038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileW8FOkQ"
+1662004344670	Marionette	INFO	Marionette enabled
+1662004344676	Marionette	INFO	Listening on port 54677
+WebDriver BiDi listening on ws://localhost:54666
+Read port: 54677
+1662004344896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileW8FOkQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54666/devtools/browser/0bf852c0-1735-449b-b3ab-a543d784ac62
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662004443261	Marionette	INFO	Stopped listening on port 54677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileE3rsKI"
+1662004406771	Marionette	INFO	Marionette enabled
+1662004406780	Marionette	INFO	Listening on port 54799
+WebDriver BiDi listening on ws://localhost:54788
+Read port: 54799
+1662004406997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileE3rsKI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54788/devtools/browser/000eaa23-4148-43d0-92d4-b94afaeda039
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662004444299	Marionette	INFO	Stopped listening on port 54799
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662004880773	geckodriver	INFO	Listening on 127.0.0.1:55068
+1662004883860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileCWcyD2"
+1662004884479	Marionette	INFO	Marionette enabled
+1662004884487	Marionette	INFO	Listening on port 55078
+WebDriver BiDi listening on ws://localhost:55069
+Read port: 55078
+1662004884697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileCWcyD2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55069/devtools/browser/33489070-e709-49e3-b21e-584c1f0f2dfc
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662004891610	Marionette	INFO	Stopped listening on port 55078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662004916581	geckodriver	INFO	Listening on 127.0.0.1:55115
+1662004919641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileZsVCN3"
+1662004920244	Marionette	INFO	Marionette enabled
+1662004920251	Marionette	INFO	Listening on port 55127
+WebDriver BiDi listening on ws://localhost:55116
+Read port: 55127
+1662004920463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileZsVCN3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55116/devtools/browser/b141a73c-9d3d-4652-8270-5a39a3561c87
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662004929876	Marionette	INFO	Stopped listening on port 55127
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662004945530	geckodriver	INFO	Listening on 127.0.0.1:55163
+1662004948587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55164" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile7Qbkx7"
+1662004949150	Marionette	INFO	Marionette enabled
+1662004949160	Marionette	INFO	Listening on port 55173
+WebDriver BiDi listening on ws://localhost:55164
+Read port: 55173
+1662004949382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile7Qbkx7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55164/devtools/browser/d40e3ba4-7b09-49c5-a69e-c1c7c8667778
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662004957322	Marionette	INFO	Stopped listening on port 55173
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662005241533	geckodriver	INFO	Listening on 127.0.0.1:55328
+1662005244584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilev0DLRY"
+1662005245149	Marionette	INFO	Marionette enabled
+1662005245157	Marionette	INFO	Listening on port 55338
+WebDriver BiDi listening on ws://localhost:55329
+Read port: 55338
+1662005245355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilev0DLRY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55329/devtools/browser/7ef3faf8-193c-43a6-8c69-53e050ff995b
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1662005349537	Marionette	INFO	Stopped listening on port 55338
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
