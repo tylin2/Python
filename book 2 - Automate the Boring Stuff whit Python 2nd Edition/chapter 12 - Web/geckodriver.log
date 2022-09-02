@@ -369,3 +369,42 @@ JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Erro
 JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
 1662005349537	Marionette	INFO	Stopped listening on port 55338
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662154600194	geckodriver	INFO	Listening on 127.0.0.1:60869
+1662154603253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileBEJYRG"
+1662154603946	Marionette	INFO	Marionette enabled
+1662154603955	Marionette	INFO	Listening on port 60881
+WebDriver BiDi listening on ws://localhost:60870
+Read port: 60881
+1662154604159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileBEJYRG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60870/devtools/browser/4548fa58-2ce0-4454-881b-1b3ee6862dd6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1662154742070	Marionette	INFO	Stopped listening on port 60881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662154915538	geckodriver	INFO	Listening on 127.0.0.1:61095
+1662154918588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile7Ef7Lm"
+1662154919166	Marionette	INFO	Marionette enabled
+1662154919173	Marionette	INFO	Listening on port 61107
+WebDriver BiDi listening on ws://localhost:61096
+Read port: 61107
+1662154919400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile7Ef7Lm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61096/devtools/browser/c434ecc8-572a-4cff-bd5d-f09a9d486b4c
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1662154937810	Marionette	INFO	Stopped listening on port 61107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662154939754	geckodriver	INFO	Listening on 127.0.0.1:61154
+1662154942824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile1kV6Ui"
+1662154943482	Marionette	INFO	Marionette enabled
+1662154943490	Marionette	INFO	Listening on port 61166
+WebDriver BiDi listening on ws://localhost:61155
+Read port: 61166
+1662154943698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile1kV6Ui\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61155/devtools/browser/e8168b86-368f-49fe-a544-bc927b56c69e
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1662154955682	Marionette	INFO	Stopped listening on port 61166
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
